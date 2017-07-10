@@ -1,1 +1,3 @@
-﻿void main()
+﻿void main(){
+    printf("this is a test!\n");
+}
